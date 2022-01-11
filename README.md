@@ -59,6 +59,9 @@ Au niveau de la sécurité, plusieurs actions ont été réalisés :
 
   3. Activez le thème : Fitness Park 
 
+## URL du site : 
+  - http://malekalita.devweb.cfa.nc/Wordpress/
+
 ## Les améliorations : 
   - Mise en place d'un calendrier pour afficher les différents cours par semaine.
   - Pourvoir proposer des crénaux horaires pour chaque cours.
