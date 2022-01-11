@@ -46,6 +46,22 @@ Au niveau de la sécurité, plusieurs actions ont été réalisés :
   - Supression du compte administrateur par défaut
   - Masquer la version de Wordpress
   - Ajouter des clés de sécurité secrètes dans le fichier wp-config.php
-  - Bloquer l'accès au fichier README.HTML
+
+## Guide pour accéder au site :
+  1. Connectez-vous sur : http://malekalita.devweb.cfa.nc/Wordpress/wp-login.php
+     - id : Admin
+     - mdp : (uq*BIn6&dt3uaI2)IDEUt*d
+   
+  2. Activez les différents plugins : 
+     - Contact,
+     - Offres,
+     - Reservation
+
+  3. Activez le thème : Fitness Park 
+
+## Les améliorations : 
+  - Mise en place d'un calendrier pour afficher les différents cours par semaine
+  - Les crénaux horaires pour chaque cours proposé par Optimum
+
 
 
