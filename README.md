@@ -60,8 +60,8 @@ Au niveau de la sécurité, plusieurs actions ont été réalisés :
   3. Activez le thème : Fitness Park 
 
 ## Les améliorations : 
-  - Mise en place d'un calendrier pour afficher les différents cours par semaine
-  - Les crénaux horaires pour chaque cours proposé par Optimum
+  - Mise en place d'un calendrier pour afficher les différents cours par semaine.
+  - Pourvoir proposer des crénaux horaires pour chaque cours.
 
 
 
